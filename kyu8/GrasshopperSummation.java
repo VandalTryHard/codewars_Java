@@ -18,16 +18,16 @@ Control Flow
 Basic Language Features
 */
 
-public class GrassHopper {
+// public class GrassHopper {
 
-    public static int summation(int n) {
-      int x = 0;
-      for(int i = 0; i<=n; i++){
-        x=x+i;
-      }
-      return x;
-    }
-}
+//     public static int summation(int n) {
+//       int x = 0;
+//       for(int i = 0; i<=n; i++){
+//         x=x+i;
+//       }
+//       return x;
+//     }
+// }
 
 // How this works
 package kyu8;
