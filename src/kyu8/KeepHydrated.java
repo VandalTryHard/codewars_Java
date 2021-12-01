@@ -32,5 +32,5 @@ public class KeepHydrated {
         int litres = (int)Math.floor(drinks*time);
         System.out.println(litres);
     }
-    
+
 }

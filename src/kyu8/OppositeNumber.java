@@ -1,9 +1,7 @@
 /*8 kyu
 Opposite number
 Very simple, given a number, find its opposite.
-
 Examples:
-
 1: -1
 14: -14
 -34: 34
@@ -27,5 +25,4 @@ public class OppositeNumber {
         System.out.println(n*-1);
         System.out.println(x*-1);
     }
-    
 }

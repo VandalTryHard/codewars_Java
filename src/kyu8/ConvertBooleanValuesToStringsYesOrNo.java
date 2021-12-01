@@ -18,7 +18,7 @@ Complete the method that takes a boolean value and return a "Yes" string for tru
 //How this works
 package kyu8;
 
-public class ConvertBooleanValuesToStringsYesorNo {
+public class ConvertBooleanValuesToStringsYesOrNo {
     public static void main(String[] args){
         boolean str_ = false;
         if (str_ == true){
@@ -26,5 +26,5 @@ public class ConvertBooleanValuesToStringsYesorNo {
         }else{
             System.out.println("No");
         }
-        }
     }
+}
